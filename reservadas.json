@@ -1,0 +1,64 @@
+[{
+        "reservadas": [
+            {
+                "nombre": "cadena",
+                "palabra": "String",
+                "tipo": "Tipo dato"
+            },
+            {
+                "nombre": "integer",
+                "palabra": "int",
+                "tipo": "Tipo dato"
+            },
+            {
+                "nombre": "double",
+                "palabra": "double",
+                "tipo": "Tipo dato"
+            },
+            {
+                "nombre": "flotante",
+                "palabra": "float",
+                "tipo": "Tipo dato"
+            },
+            {
+                "nombre": "double",
+                "palabra": "double",
+                "tipo": "Tipo dato"
+            },
+            {
+                "nombre": "importar",
+                "palabra": "import",
+                "tipo": "reservada"
+            },
+            {
+                "nombre": "boolean",
+                "palabra": "boolean",
+                "tipo": "Tipo dato"
+            },
+            {
+                "nombre": "if",
+                "palabra": "if",
+                "tipo": "reservada"
+            },
+            {
+                "nombre": "while",
+                "palabra": "while",
+                "tipo": "reservada"
+            },
+            {
+                "nombre": "main",
+                "palabra": "main",
+                "tipo": "reservada"
+            },
+            {
+                "nombre": "entonces",
+                "palabra": "then",
+                "tipo": "reservada"
+            },
+            {
+                "nombre": "this",
+                "palabra": "this",
+                "tipo": "reservada"
+            }
+        ]
+    }]

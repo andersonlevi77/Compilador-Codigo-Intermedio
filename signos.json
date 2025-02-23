@@ -1,0 +1,84 @@
+[{
+        "simbolos": [
+            {
+                "nombre": "Punto y coma",
+                "simbolo": ";",
+                "tipo": "delimitador"
+            },
+            {
+                "nombre": "Coma",
+                "simbolo": ",",
+                "tipo": "simbolo"
+            },
+            {
+                "nombre": "Paréntesis abierto",
+                "simbolo": "(",
+                "tipo": "simbolo"
+            },
+            {
+                "nombre": "Paréntesis cerrado",
+                "simbolo": ")",
+                "tipo": "simbolo"
+            },
+            {
+                "nombre": "Llave abierta",
+                "simbolo": "{",
+                "tipo": "simbolo"
+            },
+            {
+                "nombre": "Llave cerrada",
+                "simbolo": "}",
+                "tipo": "simbolo"
+            },
+            {
+                "nombre": "Corchete abierto",
+                "simbolo": "[",
+                "tipo": "simbolo"
+            },
+            {
+                "nombre": "Corchete cerrado",
+                "simbolo": "]",
+                "tipo": "simbolo"
+            },
+            {
+                "nombre": "Asignación",
+                "simbolo": "=",
+                "tipo": "simbolo"
+            },
+            {
+                "nombre": "Suma",
+                "simbolo": "+",
+                "tipo": "simbolo"
+            },
+            {
+                "nombre": "Resta",
+                "simbolo": "-",
+                "tipo": "simbolo"
+            },
+            {
+                "nombre": "Mayor",
+                "simbolo": ">",
+                "tipo": "simbolo"
+            },
+            {
+                "nombre": "Menor",
+                "simbolo": "<",
+                "tipo": "simbolo"
+            },
+            {
+                "nombre": "Incremento",
+                "simbolo": "++",
+                "tipo": "simbolo"
+            },
+            {
+                "nombre": "Decrece",
+                "simbolo": "--",
+                "tipo": "simbolo"
+            },
+            {
+                "nombre": "Igual",
+                "simbolo": "==",
+                "tipo": "simbolo"
+            }
+        ]
+    }]

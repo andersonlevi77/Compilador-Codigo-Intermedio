@@ -1,0 +1,130 @@
+int x = 3;
+int x = 3;
+boolean true;
+int x = 3;
+boolean true = true;
+int x = 0;
+boolean x;
+boolean x=true;
+bool x=true;
+int x=true;
+int x;
+double numero = 3.2;
+double numero = 3;
+bool numero;
+a numero;
+double numero = 2.3;
+double numero = 3.2;
+double numero;
+double numero;
+double numero=3.3;
+double numero=3;
+double numero = 3.3;
+double numero = 3.3;
+int numero = 3.3;
+int numero = 3;
+double numero;
+int x = 0;
+double x  = 0;
+double x ;
+double x =3.3;
+double a;
+double a=9.5;
+double a;
+double a;
+double a;
+double a=9.8;
+double a = 3.2;
+double a=3.4;
+double a;
+double a;
+double a=4.3;
+int x;
+int x=3;
+int x = 0;
+int x;
+int numero = 3;
+int numero x = 0;
+int numero x= 0;
+int numero x = 0;
+int x = 0;
+int x = 0;
+int x = 0
+int x = 10;
+int x = 10;
+double a =3.4;
+int a = 5;
+double b = 3.14;
+char c = 'A';
+String mensaje = "Hola, Mundo";
+boolean esVerdad = true;
+a += 10;
+b -= 2.5;
+c += 1;
+for (int i = 0; i < 5; i++) {
+    if (i % 2 == 0) {
+        System.out.println("Par: " + i);
+    } else {
+        System.out.println("Impar: " + i);
+    }
+}
+
+MiClase miObjeto = new MiClase(10);
+System.out.println(miObjeto.obtenerValor());
+a += 10;
+b -= 2.5;
+c += 1;
+int  a += 10;
+b -= 2.5;
+c += 1;
+int a += 10;
+b -= 2.5;
+c += 1;
+int a = 10;
+b -= 2.5;
+c += 1;
+int a = 10;
+b -= 2.5;
+c += 1;
+int a += 10;
+b -= 2.5;
+c += 1;
+
+
+hola
+hola;
+if(a>b){
+z=a+b
+}
+a>b and c>a
+a>b and c>d
+while(a>b){
+resul=a+b-a
+}
+if(a>b){
+resul=a+b-a
+}else if(c>d){
+re=a+b+s+s
+}else if(g>h){
+o=a-d/s
+}else{
+f=a;
+}
+
+if(a>b){
+z=a+b
+}else{
+a=a
+}
+
+while(a>b){
+a=a+b;
+}
+if(a>b){
+z=a+b
+}else if(b>d){
+a=a+b
+}
+z=a-8/q/z/x*9
+
+

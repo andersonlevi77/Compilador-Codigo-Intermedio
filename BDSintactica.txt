@@ -1,0 +1,38 @@
+;	No cumple
+
+double	numero	=	3	;	Cumple
+
+bool	numero			;	Cumple
+
+a	numero			;	Cumple
+
+int	x	=	0	;	Cumple
+
+int	x	=		Error	No cumple
+
+int	x	=	10	;	Cumple
+double	a	=	3.4	;	Cumple
+
+int	a	=	5	;	Cumple
+double	b	=	3.14	;	Cumple
+char	c	=	'A'	;	Cumple
+String	mensaje	=		;	Cumple
+boolean	esVerdad	=	true	;	Cumple
+
+=	10	;	No cumple
+=	2.5	;	No cumple
+=	1	;	No cumple
+
+=	10	;	No cumple
+=	2.5	;	No cumple
+=	1	;	No cumple
+
+int	a	=	10	;	Cumple
+=	2.5	;	No cumple
+=	1	;	No cumple
+
+
+
+
+
+
