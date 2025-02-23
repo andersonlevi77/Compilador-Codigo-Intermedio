@@ -19,6 +19,7 @@
 *.tar.gz
 *.rar
 
+<<<<<<< HEAD
 # Archivo generado del compilador (Proyecto)
 Tokens.lex
 
@@ -38,3 +39,8 @@ nbactions.xml
 backup*/
 *.bak
 *~
+=======
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+>>>>>>> 36b9689337802c34333ae0d5fe8ece5376fcb9b0
